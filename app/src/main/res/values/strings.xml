@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">ChargeCity</string>
+    <string name="logo_name">ChargeCity</string>
+    <string name="slogan_name">We will help you to find your way!</string>
+    <string name="powered_by">Powered By Team Technoholix</string>
+
+    <!-- Strings for On Boarding Screen -->
+    <!--Titles-->
+    <string name="first_slide_title">Search Your Charging Location</string>
+    <string name="second_slide_title">Visit Map </string>
+    <string name="third_slide_title">charge on your Destination</string>
+    <string name="fourth_slide_title">Sit Back And Enjoy</string>
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">Search for your destination and find closeby charge points Navigate there charge </string>
+    <string name="second_slide_desc">not sure which charge point to pick? view the distance and cost in the list</string>
+    <string name="third_slide_desc">start charging? see your session in the app and end it any time</string>
+    <string name="fourth_slide_desc">going back to the same change point ? Make them your favorite and location them faster. </string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+     <string name="title_activity_maps">Map</string>
+        <string name="action_geolocate">Pick Place</string>
+<string name="default_info_title">Default Location</string>
+<string name="default_info_snippet">No places found, because location permission is disabled.</string>
+
+    <!-- Strings for Dashboards -->
+
+
+    <!--categories -->
+    <string name="hotels">Battery</string>
+    <string name="restaurant">E-vehicles</string>
+    <string name="shops">station</string>
+    <string name="banks">Banks</string>
+    <string name="airports">Accessories</string>
+    <string name="home">HOME</string>
+    <string name="all_categories">ALL CATEGORIES</string>
+    <string name="search">Search</string>
+    <string name="search_1">SEARCH</string>
+    <string name="add">ADD MISSING PLACE</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate Us</string>
+
+    <!-- Titles and Discriptions -->
+    <string name="features_locations">Find EV Charging Station</string>
+    <string name="features_locations_description">Find your charging station ,Showrooms,Reparing station near by you!</string>
+    <string name="categories">E-Vehicles(Bikes)</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search...</string>
+    <string name="most_viewed">E-vehicles(car)</string>
+
+    <!--    general Strings-->
+    <string name="sign_up">Sign Up</string>
+    <string name="retailer_heading">Grow\nYour Business</string>
+    <string name="retailer_tag_line">We will help you to find charging ststion</string>
+    <string name="create_account">Create\nAccount</string>
+    <string name="how_we_work">How we work</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="remember_me">Remember Me</string>
+
+
+    <!--    filed string-->
+    <string name="enter_phone_number">Phone Number</string>
+    <string name="enter_password">Password</string>
+    <string name="enter_email">Email</string>
+    <string name="enter_username">Username</string>
+    <string name="enter_full_name">Full Name</string>
+
+    <!--    OTP screen-->
+    <string name="otp_code_text">Code</string>
+    <string name="otp_verification_text">Verification</string>
+    <string name="otp_description_text">Enter one time Password</string>
+    <string name="verify_code">VERIFY OTP</string>
+    <string name="forget_password_detail">provide your account email for which you want to reset your password</string>
+
+    <string name="via_mail">VIA EMAIL</string>
+    <string name="via_sms">VIA SMS</string>
+    <string name="make_selection_detail">Select which contact details through we send to reset your password</string>
+    <string name="make_selection">MAKE SELECTION</string>
+
+
+    <string name="new_credentials">New Credentials</string>
+    <string name="new_credentials_detail">Your Identity have been Verified\nSet Your Password</string>
+
+
+    <string name="password_updated">PASSWORD\nUPDATED</string>
+    <string name="password_updated_success_message">Your password has been updated</string>
+
+
+
+</resources>

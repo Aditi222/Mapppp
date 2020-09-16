@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "403108645310",
+    "firebase_url": "https://chargecity-836af.firebaseio.com",
+    "project_id": "chargecity-836af",
+    "storage_bucket": "chargecity-836af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403108645310:android:5e3863d8092f03788291ef",
+        "android_client_info": {
+          "package_name": "com.adarsh.chargecity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403108645310-2634qpblmf6o4vb1992t30aauoj26gti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adarsh.chargecity",
+            "certificate_hash": "3f7425946c89277cd0c4c307c547b5f00c0046b0"
+          }
+        },
+        {
+          "client_id": "403108645310-32o2pn95ruj9ffv1kcv9608lgkah5e2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuSuGaty7iwEj590G5tgKp7riGn2ZW_50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403108645310-32o2pn95ruj9ffv1kcv9608lgkah5e2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

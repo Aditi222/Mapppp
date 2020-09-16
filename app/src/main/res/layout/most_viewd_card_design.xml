@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/mv_image"
+            android:layout_width="170dp"
+            android:layout_height="150dp"
+            android:src="@drawable/car1"
+            android:scaleType="centerCrop"/>
+
+        <TextView
+            android:id="@+id/mv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Audi-A3-2016"
+            android:layout_toRightOf="@+id/mv_image"
+            android:layout_marginLeft="10dp"
+            android:textSize="20dp"
+            android:fontFamily="@font/abril_fatface"/>
+
+
+
+        <TextView
+            android:id="@+id/mv_desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Battery Electric\nTop speed:224\nBattery operated"
+            android:layout_toRightOf="@+id/mv_image"
+            android:layout_below="@id/mv_title"
+            android:padding="10dp"/>
+
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
